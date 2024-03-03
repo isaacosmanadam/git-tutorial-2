@@ -21,6 +21,6 @@ const config = {
   },
 };
 console.log('config.js');
-console.log('version 1.0')
+console.log('version 1.2')
 // Export the configuration object
 module.exports = config;
