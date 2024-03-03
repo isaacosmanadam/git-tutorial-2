@@ -21,6 +21,10 @@ const config = {
   },
 };
 console.log('config.js');
+<<<<<<< HEAD
 console.log('version 1.3')
+=======
+console.log('version 1.4')
+>>>>>>> de56855551d883e39cbbaf381b74079003b840b1
 // Export the configuration object
 module.exports = config;
