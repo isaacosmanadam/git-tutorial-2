@@ -20,6 +20,7 @@ const config = {
     file: 'app.log',
   },
 };
-
+console.log('config.js');
+console.log('version 1.0')
 // Export the configuration object
 module.exports = config;
